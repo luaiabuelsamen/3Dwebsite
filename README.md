@@ -8,6 +8,9 @@ Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
 ``` bash
+#After pulling the repo, go into src/script.js and change the second argument of line 180 to vary the depth.
+addChildren(mainBranch, [Vary depth], 2.5, Math.PI/3)
+
 # Install dependencies (only the first time)
 npm install
 
