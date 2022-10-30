@@ -33,4 +33,4 @@ I would have loved to have more time to develop some of the following features:
 - Rotations
 
 ## Image
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/luaiabuelsamen/3Dwebsite/blob/main/static/Tree_image.png?raw=true)
